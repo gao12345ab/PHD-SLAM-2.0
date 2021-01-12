@@ -1,5 +1,5 @@
 This is the Matlab code for PHD-SLAM 2.0, which aims to perform SLAM in the case that origin of measurements is unknown and, furthermore, miss-detections and clutter are present.
-The related paper is: PHD-SLAM 2.0: efficient SLAM in presence of miss-detections and clutter which is published on IEEE Transactions on Robotics.
+The related paper is: L. Gao, G. Battistelli, and L. Chisci, PHD-SLAM 2.0: efficient SLAM in presence of miss-detections and clutter, IEEE Transactions on Robotics.
 The code was programmed by Lin Gao (Email: lingao_1014@126.com).
 We would like to mention some excellent contributions on the same topic such as:
 UF-SLAM: https://openslam-org.github.io/ufastslam.html (The source files downloaded from this link has been adopted in our paper to evaluate the performance of UF-SLAM under Victoria Park dataset)
